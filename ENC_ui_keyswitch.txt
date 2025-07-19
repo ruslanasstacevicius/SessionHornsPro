@@ -1655,6 +1655,11 @@ on init
 		add_menu_item($f498455f940f, @sound_preset_name_37, 37) 
 		add_menu_item($f498455f940f, @sound_preset_name_38, 38) 
 		add_menu_item($f498455f940f, @sound_preset_name_39, 39) 
+		$2438003f2a66 := 0
+		while ($2438003f2a66 < $a1343cc22897)
+			set_menu_item_visibility (get_ui_id($f498455f940f),$2438003f2a66,%sound_preset_visible[$2438003f2a66])
+			inc ($2438003f2a66)
+		end while
 		make_persistent($f498455f940f)
 		read_persistent_var($f498455f940f)
 		inc($e187aa28ff64)
