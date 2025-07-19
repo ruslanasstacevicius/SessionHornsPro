@@ -12013,6 +12013,10 @@ function f4866654e714
 	call b8e6807cd17c
 	call cc633815ed02
 	call c51f5b38b055
+	call d71c8fac481b
+	call e815e17d1d62
+	call d7508b62c20c
+	call c03d46d2f641
 end function
 function b4fa82ba8a29
 	set_control_par (%3615c06b93cd[$d25a6a32508c + 0],$CONTROL_PAR_PICTURE_STATE,0)

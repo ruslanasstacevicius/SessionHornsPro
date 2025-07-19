@@ -6557,6 +6557,10 @@ function f2d269c283a2
 	call dd62d96ab62c
 	call ad29d8a88e6f
 	call d4fbd518bca5
+	call bb5a72f39354
+	call c8016ef07f42
+	call a0baf13de7dd
+	call bc4577a11a4a
 end function
 	on ui_control($MAIN_ALWAYS_HUMANIZE_SLIDER)
 		$3d509c67edf5 := $MAIN_ALWAYS_HUMANIZE_SLIDER

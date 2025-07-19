@@ -10411,6 +10411,10 @@ function e21127d7cb23
 	call f5fdc582deb9
 	call f5e1aea2561b
 	call b3033f09e2a3
+	call a0ac82eafbb2
+	call aabc9e7e0097
+	call b8c11d280298
+	call ff90de2890e3
 end function
 function baf6ae9e06e9
 	set_control_par (%2b18b70c464b[$f6c0e39244be + 0],$CONTROL_PAR_PICTURE_STATE,0)
